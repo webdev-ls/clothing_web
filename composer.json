@@ -1,0 +1,13 @@
+{
+    "name": "hp/clothing_web",
+    "autoload": {
+        "psr-4": {
+            "Hp\\ClothingWeb\\": "src/"
+        }
+    },
+    "require": {
+        "twbs/bootstrap": "^5.2",
+        "components/jquery": "^3.6",
+        "fortawesome/font-awesome": "^6.4"
+    }
+}

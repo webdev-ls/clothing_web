@@ -11,7 +11,7 @@
 </head>
 <body>
     <!-- Navbar -->
-
+    <?php require('constant/navbar.php') ?>
     <!-- Navbar -->
     <!-- Main Content -->
 
